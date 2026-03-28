@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6FA4BB15-C3A4-41A5-944C-F1AF9225873D}|JurnalModul5_103082400023.csproj|d:\\tugas kuliah\\semester 4\\kpl\\coding\\week 5\\jurnal modul 5\\jurnalmodul5_103082400023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FA4BB15-C3A4-41A5-944C-F1AF9225873D}|JurnalModul5_103082400023.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA4BB15-C3A4-41A5-944C-F1AF9225873D}|JurnalModul5_103082400023.csproj|d:\\tugas kuliah\\semester 4\\kpl\\coding\\week 5\\jurnal modul 5\\jurnalmodul5_103082400023\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA4BB15-C3A4-41A5-944C-F1AF9225873D}|JurnalModul5_103082400023.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Tugas Kuliah\\Semester 4\\KPL\\Coding\\Week 5\\Jurnal Modul 5\\JurnalModul5_103082400023\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\Tugas Kuliah\\Semester 4\\KPL\\Coding\\Week 5\\Jurnal Modul 5\\JurnalModul5_103082400023\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:25:01.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Tugas Kuliah\\Semester 4\\KPL\\Coding\\Week 5\\Jurnal Modul 5\\JurnalModul5_103082400023\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T12:16:45.17Z",
               "EditorCaption": ""

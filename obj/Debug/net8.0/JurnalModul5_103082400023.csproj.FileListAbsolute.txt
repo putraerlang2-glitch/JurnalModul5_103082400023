@@ -1,0 +1,15 @@
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\bin\Debug\net8.0\JurnalModul5_103082400023.exe
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\bin\Debug\net8.0\JurnalModul5_103082400023.deps.json
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\bin\Debug\net8.0\JurnalModul5_103082400023.runtimeconfig.json
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\bin\Debug\net8.0\JurnalModul5_103082400023.dll
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\bin\Debug\net8.0\JurnalModul5_103082400023.pdb
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\JurnalModul5_103082400023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\JurnalModul5_103082400023.AssemblyInfoInputs.cache
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\JurnalModul5_103082400023.AssemblyInfo.cs
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\JurnalModul5_103082400023.csproj.CoreCompileInputs.cache
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\JurnalModul5_103082400023.sourcelink.json
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\JurnalModul5_103082400023.dll
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\refint\JurnalModul5_103082400023.dll
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\JurnalModul5_103082400023.pdb
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\JurnalModul5_103082400023.genruntimeconfig.cache
+D:\Tugas Kuliah\Semester 4\KPL\Coding\Week 5\Jurnal Modul 5\JurnalModul5_103082400023\obj\Debug\net8.0\ref\JurnalModul5_103082400023.dll
