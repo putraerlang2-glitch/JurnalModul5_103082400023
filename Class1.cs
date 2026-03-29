@@ -6,18 +6,33 @@ using System.Threading.Tasks;
 
 namespace JurnalModul5_103082400023
 {
-    class DataGeneric<T>
+    class SimpleDataBase<T>
     {
-        private T data;
+        private List<T> storedData;
+        private List<DateTime> inputDates;
 
-        public DataGeneric(T data)
+        public SimpleDataBase()
         {
-            this.data = data;
+            storedData = new List<T>();
+            inputDates = new List<DateTime>();
         }
 
-        public void PrintData()
+        public void AddNewData(T data)
         {
-            Console.WriteLine("Data: " + data);
+            storedData.Add(data);
+            inputDates.Add(DateTime.Now);
+        }
+
+        public void PrintAllData()
+        {
+            for (int i = 0; i < storedData.Count; i++)
+            {
+                Console.WriteLine(
+                    "Data " + (i + 1) +
+                    " berisi: " + storedData[i] +
+                    ", disimpan pada waktu: " + inputDates[i]
+                );
+            }
         }
     }
 }

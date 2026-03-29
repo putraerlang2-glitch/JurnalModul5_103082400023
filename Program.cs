@@ -2,6 +2,11 @@
 using System;
 using JurnalModul5_103082400023;
 
-DataGeneric<string> data = new DataGeneric<string>("103082400023");
-data.PrintData();
+SimpleDataBase<int> data = new SimpleDataBase<int>();
+
+data.AddNewData(12);
+data.AddNewData(34);
+data.AddNewData(56);
+
+data.PrintAllData();
 
